@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @i16777215
 - 👀 I’m interested in computational fluid dynamics, machine learning and data science.
+- 🌱 I’m currently enjoyning
+  - AtCoder
+  - Signate
+  - Kaggle
 - 🌱 I’m currently learning machine learning and data sacience.
 - 💞️ I’m looking to collaborate on compuational fluid dynamics
 - 📫 How to reach me (under dev.)
