@@ -11,7 +11,6 @@
   - Fortran
   - C++
   - Python
-  - gnuplot
   - etc.
 - 📫 How to reach me (under dev.)
 
