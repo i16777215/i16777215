@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shiro @i16777215
+- 👋 Hi, I’m s.hiro @i16777215
 - 👀 I’m interested in 
   - computational fluid dynamics
   - machine learning
