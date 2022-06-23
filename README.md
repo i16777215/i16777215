@@ -1,13 +1,9 @@
-- 👋 Hi, I’m s.hiro @i16777215
+- 👋 Hi, I’m SK-hiro @i16777215
 - 👀 I’m interested in 
   - computational fluid dynamics
   - machine learning
   - data science.
-- 🌱 I’m currently enjoyning
-  - AtCoder
-  - Signate
-  - Kaggle
-- 💞️ I use the following items
+- 🌱 I use the following items
   - Fortran
   - C++
   - Python
